@@ -1,0 +1,4 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="56" y="56" width="188" height="188" fill="purple" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="pink" font-size="32">dhm</text>
+</svg>
