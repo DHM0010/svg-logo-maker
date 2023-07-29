@@ -21,6 +21,10 @@ install nodeJS then just run node index.js from your integrated terminal
 
 Upon running node index.js from your terminal you will be prompted with a serries of questions. The first asking you to enter up to 3 characters for your logo, next it will ask you to enter a text color, then a shape for your logo, and lastly, a shape color.
 
+![Alt text](<images/svg logo screenshot.png>)
+
+https://drive.google.com/file/d/11MZXCnCB5mORLVkan_2Vex029paUiflY/view
+
 ## License
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
